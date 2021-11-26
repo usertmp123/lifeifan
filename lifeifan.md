@@ -24,3 +24,5 @@
 
 我们可以将所有的工程项目打包上传到[GitHub][1]进行托管，开发者可以下载[Git][2]</br>
 
+[1]:https://www.github.com "GitHub官方网站"
+[2]:https://git-scm.com/downloads "Git 官方下载入口"
