@@ -27,9 +27,32 @@
 [1]:https://www.github.com "GitHub官方网站"
 [2]:https://git-scm.com/downloads "Git 官方下载入口"
 
-插入本地图片
-
-![本地图片](C:/Users/19935/Desktop/tupian.png "本地图片提示")
-
 插入网络图片
 ![网络图片](https://i.loli.net/2021/11/26/TXGRFpNYwmCbkg4.png "网络图片") 
+
+
+## 在文章当中插入特定的代码段
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+	int a[2]={1,2};
+
+	return 0;
+}
+```
+```cpp
+#include <iostream>
+using namespace std;
+
+
+int main(void)
+{
+	cout << "C++代码段" << endl;
+	
+	system("pause");
+	return 0;
+}
+
