@@ -32,6 +32,10 @@
 
 
 ## 在文章当中插入特定的代码段
+```bash
+sudo apt-get install git
+```
+
 ```c
 #include <stdio.h>
 #include <stdlib.h>
